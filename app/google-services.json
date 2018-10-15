@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16889934984",
+    "firebase_url": "https://cuber-2a2a5.firebaseio.com",
+    "project_id": "cuber-2a2a5",
+    "storage_bucket": "cuber-2a2a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16889934984:android:9ee2c740f0be50df",
+        "android_client_info": {
+          "package_name": "com.university.cuber.cuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16889934984-bsai02597bf1stod8uk0h4fo2venu3bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.university.cuber.cuber",
+            "certificate_hash": "ce7b70025100d5c309735352024ebeb2a13e5c07"
+          }
+        },
+        {
+          "client_id": "16889934984-1sf2j5r4s3ff8cqaev0no3emqd3co17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJ0pqZNQd8BfuJU4Zrr5l2zSffKPhggc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16889934984-1sf2j5r4s3ff8cqaev0no3emqd3co17s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
